@@ -1,2 +1,25 @@
-# bef86cc8-pharmacy-drug-store-sow-and
-Tired of scope creep and compliance headaches on your pharmacy projects? This generator turns vague agreements into airtight, regulatory-ready SOWs in minutes.  Designed specifically for the unique needs of pharmacy and drug store operations, this template ensures every scope document covers inventory management, prescription handling, and federal/
+# Pharmacy & Drug Store SOW and Scope Document Generator
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFa3cvh1Be2M6xy7jCd0p0S)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa3cvh1Be2M6xy7jCd0p0S)
+
